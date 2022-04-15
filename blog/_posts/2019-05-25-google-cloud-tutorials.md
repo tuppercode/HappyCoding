@@ -17,7 +17,7 @@ I've been learning about Google Cloud over the past couple years for [CodeU](htt
 
 Check them out here:
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/" %}
+{% include url-thumbnail.html url="/tutorials/google-cloud/" %}
 
 Here are some random thoughts I had while writing these tutorials.
 

@@ -18,17 +18,17 @@ Download all of the code as a `.zip` from DownGit [here](https://downgit.github.
 
 ---
 
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/app-engine-hello-world" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/shoutbox-v1" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/cloud-storage-hello-world" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/cloud-vision-hello-world-standalone" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/cloud-vision-hello-world-webapp" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/datastore-shoutbox-v2" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/maps-hello-world" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/maps-markers" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/maps-info-windows" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/maps-google-tour" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/natural-language-hello-world-standalone" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/natural-language-hello-world-webapp" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/translation-hello-world-standalone" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/translation-hello-world-webapp" %}
+{% include url-thumbnail.html url="/examples/google-cloud/app-engine-hello-world" %}
+{% include url-thumbnail.html url="/examples/google-cloud/shoutbox-v1" %}
+{% include url-thumbnail.html url="/examples/google-cloud/cloud-storage-hello-world" %}
+{% include url-thumbnail.html url="/examples/google-cloud/cloud-vision-hello-world-standalone" %}
+{% include url-thumbnail.html url="/examples/google-cloud/cloud-vision-hello-world-webapp" %}
+{% include url-thumbnail.html url="/examples/google-cloud/datastore-shoutbox-v2" %}
+{% include url-thumbnail.html url="/examples/google-cloud/maps-hello-world" %}
+{% include url-thumbnail.html url="/examples/google-cloud/maps-markers" %}
+{% include url-thumbnail.html url="/examples/google-cloud/maps-info-windows" %}
+{% include url-thumbnail.html url="/examples/google-cloud/maps-google-tour" %}
+{% include url-thumbnail.html url="/examples/google-cloud/natural-language-hello-world-standalone" %}
+{% include url-thumbnail.html url="/examples/google-cloud/natural-language-hello-world-webapp" %}
+{% include url-thumbnail.html url="/examples/google-cloud/translation-hello-world-standalone" %}
+{% include url-thumbnail.html url="/examples/google-cloud/translation-hello-world-webapp" %}

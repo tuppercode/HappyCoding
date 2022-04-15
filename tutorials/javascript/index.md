@@ -18,16 +18,16 @@ At this point, you're familiar with the fundamentals of HTML and CSS. (If not, r
 Read through these tutorials to learn more about JavaScript:
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/calling-javascript" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/variables" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/developer-tools" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/creating-functions" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/interactive-html" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/if-statements" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/for-loops" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/arrays" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/libraries" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/objects" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/fetch" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/bootstrap" %}
+{% include url-thumbnail.html url="/tutorials/javascript/calling-javascript" %}
+{% include url-thumbnail.html url="/tutorials/javascript/variables" %}
+{% include url-thumbnail.html url="/tutorials/javascript/developer-tools" %}
+{% include url-thumbnail.html url="/tutorials/javascript/creating-functions" %}
+{% include url-thumbnail.html url="/tutorials/javascript/interactive-html" %}
+{% include url-thumbnail.html url="/tutorials/javascript/if-statements" %}
+{% include url-thumbnail.html url="/tutorials/javascript/for-loops" %}
+{% include url-thumbnail.html url="/tutorials/javascript/arrays" %}
+{% include url-thumbnail.html url="/tutorials/javascript/libraries" %}
+{% include url-thumbnail.html url="/tutorials/javascript/objects" %}
+{% include url-thumbnail.html url="/tutorials/javascript/fetch" %}
+{% include url-thumbnail.html url="/tutorials/javascript/bootstrap" %}
 </div>

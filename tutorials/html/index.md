@@ -24,12 +24,12 @@ HTML is the one of the most fundamental building blocks of the internet. HTML le
 If you're ready to start making your own websites, read through these tutorials!
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/html" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/html-tags" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/css" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/layout" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/accessibility" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/hosting" %}
+{% include url-thumbnail.html url="/tutorials/html/html" %}
+{% include url-thumbnail.html url="/tutorials/html/html-tags" %}
+{% include url-thumbnail.html url="/tutorials/html/css" %}
+{% include url-thumbnail.html url="/tutorials/html/layout" %}
+{% include url-thumbnail.html url="/tutorials/html/accessibility" %}
+{% include url-thumbnail.html url="/tutorials/html/hosting" %}
 </div>
 
 # GitHub Pages
@@ -37,7 +37,7 @@ If you're ready to start making your own websites, read through these tutorials!
 These tutorials walk you through the process of using HTML to create your own site on GitHub Pages, starting with your GitHub profile README and ending with Jekyll, which is how I build Happy Coding!
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/github-profile-readme" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/github-pages" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/jekyll" %}
+{% include url-thumbnail.html url="/tutorials/html/github-profile-readme" %}
+{% include url-thumbnail.html url="/tutorials/html/github-pages" %}
+{% include url-thumbnail.html url="/tutorials/html/jekyll" %}
 </div>

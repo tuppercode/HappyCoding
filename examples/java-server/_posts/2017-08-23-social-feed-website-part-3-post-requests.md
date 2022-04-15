@@ -26,7 +26,7 @@ Now our JSP page contains a form:
 	
 	<script src="/js/jquery-2.2.4.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="/HappyCoding/css/bootstrap.flatly.css">
+	<link rel="stylesheet" href="/css/bootstrap.flatly.css">
 </head>
 <body>
 

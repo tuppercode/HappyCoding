@@ -12,7 +12,7 @@ tags: [example, html, css]
 
 This is an example personal webpage:
 
-<iframe src="/HappyCoding/examples/html/files/personal-page-dark-styles/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
+<iframe src="/examples/html/files/personal-page-dark-styles/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
 
 Click [here](/examples/html/files/personal-page-dark-styles/home.html) to open the page in its own window.
 

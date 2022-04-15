@@ -94,7 +94,7 @@ Another handy tool is the ability to inspect an HTML element. This lets you see 
 
 You can inspect an element by right-clicking an element in the webpage itself, and then clicking **Inspect** in the menu. This will bring you to the **Elements** tab of the developer tools, with the element you clicked already selected.
 
-<img alt="inspecting element demo gif" src="/HappyCoding/tutorials/javascript/images/developer-tools-1.gif" style="border:thin solid black;" />
+<img alt="inspecting element demo gif" src="/tutorials/javascript/images/developer-tools-1.gif" style="border:thin solid black;" />
 
 You can use this to view an element's CSS styles. This is really useful if you want to know exactly what's causing an element to look a certain way. Also check out the **Computed** tab to show the final result of all of the cascading styles.
 

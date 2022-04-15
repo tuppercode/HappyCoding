@@ -49,7 +49,7 @@ void draw(){
 I load the sound files into an array, and then I play a random note two times per second. The result is a random "song" that sounds like this:
 
 <audio controls>
-	<source src="/HappyCoding/examples/processing/libraries/data/piano.mp3" type="audio/mpeg">
+	<source src="/examples/processing/libraries/data/piano.mp3" type="audio/mpeg">
 </audio>
 
 The sketch, including the sound files, can be downloaded [here](/examples/processing/libraries/data/RandomPiano.zip).

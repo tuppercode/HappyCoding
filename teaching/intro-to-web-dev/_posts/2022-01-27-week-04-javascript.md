@@ -34,7 +34,7 @@ First, watch the videos and read through the tutorials:
 
 {% include youtube-embed.html slug="gj2MJ8ZGGQ4" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/calling-javascript" %}
+{% include url-thumbnail.html url="/tutorials/javascript/calling-javascript" %}
 
 ---
 
@@ -42,15 +42,15 @@ First, watch the videos and read through the tutorials:
 
 {% include youtube-embed.html slug="8BUEHZI_FHA" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/variables" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/developer-tools" %}
+{% include url-thumbnail.html url="/tutorials/javascript/variables" %}
+{% include url-thumbnail.html url="/tutorials/javascript/developer-tools" %}
 
 ---
 
 ## Creating Functions
 {% include youtube-embed.html slug="nsLIM6OsdQ0" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/creating-functions" %}
+{% include url-thumbnail.html url="/tutorials/javascript/creating-functions" %}
 
 ---
 
@@ -58,7 +58,7 @@ First, watch the videos and read through the tutorials:
 
 {% include youtube-embed.html slug="ROMdoqcw_S0" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/interactive-html" %}
+{% include url-thumbnail.html url="/tutorials/javascript/interactive-html" %}
 
 ---
 

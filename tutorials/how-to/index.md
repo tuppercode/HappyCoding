@@ -14,9 +14,9 @@ sort-key: 500
 These are general tutorials about general topics that don't fit anywhere else on the site.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/learn-coding" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/program" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/social-app" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/sell-digital-art-online" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/interview" %}
+{% include url-thumbnail.html url="/tutorials/how-to/learn-coding" %}
+{% include url-thumbnail.html url="/tutorials/how-to/program" %}
+{% include url-thumbnail.html url="/tutorials/how-to/social-app" %}
+{% include url-thumbnail.html url="/tutorials/how-to/sell-digital-art-online" %}
+{% include url-thumbnail.html url="/tutorials/how-to/interview" %}
 </div>

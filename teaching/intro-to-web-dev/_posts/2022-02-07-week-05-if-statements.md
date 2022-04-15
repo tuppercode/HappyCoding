@@ -30,7 +30,7 @@ First, watch this video and read through the tutorial:
 
 {% include youtube-embed.html slug="STjp3G_c-cg" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/if-statements" %}
+{% include url-thumbnail.html url="/tutorials/javascript/if-statements" %}
 
 ---
 

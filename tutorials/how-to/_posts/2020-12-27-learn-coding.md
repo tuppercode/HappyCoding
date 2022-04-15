@@ -31,10 +31,10 @@ I would love to hear from you, so please also post your work on [the Happy Codin
 I personally recommend starting with [p5.js](/tutorials/p5js) because you don't have to download or install anything to use it, and you can share your work as an interactive webpage without knowing any HTML. Or you might start by learning [HTML](/tutorials/html), especially if you want to create your own portfolio page. Or you might start with [Processing](/tutorials/processing), especially if you already know some Java.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/which-processing" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/" %}
+{% include url-thumbnail.html url="/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/tutorials/p5js/which-processing" %}
+{% include url-thumbnail.html url="/tutorials/processing/" %}
+{% include url-thumbnail.html url="/tutorials/html/" %}
 </div>
 
 But believe it or not, it doesn't *really* matter which language you learn first. Coding languages are a lot like tools. Learning about one tool doesn't mean you *can't* learn about any other tools. In fact, learning how to use a hammer makes it easier to learn how to use a screwdriver. Coding languages are the same, and most programmers use a mix of many different languages.

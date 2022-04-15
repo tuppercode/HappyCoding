@@ -12,24 +12,24 @@ meta-image: /images/random-walkers-1.png
 
 # Gallery
 
-{% include url-thumbnail.html url="/HappyCoding/gallery/" %}
+{% include url-thumbnail.html url="/gallery/" %}
 
 ---
 
 # Web Development
 
-{% include url-thumbnail.html url="/HappyCoding/examples/p5js/" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/html/" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/javascript/" %}
+{% include url-thumbnail.html url="/examples/p5js/" %}
+{% include url-thumbnail.html url="/examples/html/" %}
+{% include url-thumbnail.html url="/examples/javascript/" %}
 
 ---
 
 # Java
 
-{% include url-thumbnail.html url="/HappyCoding/examples/processing/" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/java/" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/google-cloud/" %}
+{% include url-thumbnail.html url="/examples/processing/" %}
+{% include url-thumbnail.html url="/examples/java/" %}
+{% include url-thumbnail.html url="/examples/java-server/" %}
+{% include url-thumbnail.html url="/examples/google-cloud/" %}
 
 <hr/>
 

@@ -30,7 +30,7 @@ First, watch this video and read through the tutorial to learn about JavaScript 
 
 {% include youtube-embed.html slug="AZbuczBbuUQ" %}
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/libraries" %}
+{% include url-thumbnail.html url="/tutorials/javascript/libraries" %}
 
 ---
 
@@ -40,7 +40,7 @@ Now that you've learned about JavaScript libraries, I want to introduce you to m
 
 One thing I love about p5.js is that it's a great way to practice the fundamentals of JavaScript in a fun environment. So if you've been struggling with JavaScript, please use this week as a chance to revisit the concepts in p5.js!
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/tutorials/p5js/" %}
 
 ---
 
@@ -54,7 +54,7 @@ To practice these concepts, modify the files in the `week-07-p5js` directory of 
 
 If you want some inspiration, check out these p5.js examples:
 
-{% include url-thumbnail.html url="/HappyCoding/examples/p5js/" %}
+{% include url-thumbnail.html url="/examples/p5js/" %}
 
 ---
 

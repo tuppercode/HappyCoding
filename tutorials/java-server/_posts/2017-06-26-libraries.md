@@ -68,7 +68,7 @@ public class FormServlet extends HttpServlet {
 
 You can view or download this project here:
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/user-input-unsanitized" %}
+{% include url-thumbnail.html url="/examples/java-server/user-input-unsanitized" %}
 
 What happens if the user enters some HTML content?
 
@@ -191,7 +191,7 @@ That's because the Commons Text library escapes the HTML, which renders it as te
 
 You can view or download this example here:
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/user-input-escaped" %}
+{% include url-thumbnail.html url="/examples/java-server/user-input-escaped" %}
 
 This example used a particular library, but all of the above will work for any library you want to use.
 
@@ -203,5 +203,5 @@ This example used a particular library, but all of the above will work for any l
 
 # Examples
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/user-input-unsanitized" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/user-input-escaped" %}
+{% include url-thumbnail.html url="/examples/java-server/user-input-unsanitized" %}
+{% include url-thumbnail.html url="/examples/java-server/user-input-escaped" %}

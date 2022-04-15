@@ -313,7 +313,7 @@ Then visit http://localhost:8080 in your web browser, and you should see this:
 
 Learn more in these tutorials:
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/cloud-storage" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/post" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/uploading-files" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/html/html-tags" %}
+{% include url-thumbnail.html url="/tutorials/google-cloud/cloud-storage" %}
+{% include url-thumbnail.html url="/tutorials/java-server/post" %}
+{% include url-thumbnail.html url="/tutorials/java-server/uploading-files" %}
+{% include url-thumbnail.html url="/tutorials/html/html-tags" %}

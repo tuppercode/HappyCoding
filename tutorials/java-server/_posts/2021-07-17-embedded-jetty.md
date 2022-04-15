@@ -88,7 +88,7 @@ Eventually you'll probably want to use an IDE like Eclipse or Intellij to compil
 
 You can view and download an example project that uses the command line to deploy an embedded Jetty server here:
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/hello-world-embedded-jetty-command-line" %}
+{% include url-thumbnail.html url="/examples/java-server/hello-world-embedded-jetty-command-line" %}
 
 This section of the tutorial walks through this example project.
 
@@ -198,7 +198,7 @@ So far, this tutorial has used the command line to compile and run the code. You
 
 You can view and download an example project that uses Maven to deploy an embedded Jetty server here:
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/hello-world-embedded-jetty-maven" %}
+{% include url-thumbnail.html url="/examples/java-server/hello-world-embedded-jetty-maven" %}
 
 The rest of this tutorial walks through this example project.
 
@@ -404,5 +404,5 @@ Add a few HTML pages to your `HelloWorld` web app, and then run your server agai
 
 # Examples
 
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/hello-world-embedded-jetty-command-line" %}
-{% include url-thumbnail.html url="/HappyCoding/examples/java-server/hello-world-embedded-jetty-maven" %}
+{% include url-thumbnail.html url="/examples/java-server/hello-world-embedded-jetty-command-line" %}
+{% include url-thumbnail.html url="/examples/java-server/hello-world-embedded-jetty-maven" %}

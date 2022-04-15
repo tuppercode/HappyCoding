@@ -32,10 +32,10 @@ For example, Bootstrap makes it easy to create a nice interactive [navigation ba
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav">
-      <li class="nav-item"><a class="nav-link random-color transition" href="/HappyCoding/tutorials">Tutorials</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/HappyCoding/examples">Examples</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/HappyCoding/blog">Blog</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="HappyCoding/about">About</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="/tutorials">Tutorials</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="/examples">Examples</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="/blog">Blog</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="/about">About</a></li>
       <li class="nav-item"><a class="nav-link random-color transition" href="/teaching">Teaching</a></li>
       <li class="nav-item"><a class="nav-link random-color transition" href="http://forum.HappyCoding.io">Forum</a></li>
     </ul>
@@ -56,19 +56,19 @@ And here's what the code for the navigation bar looks like after I remove Bootst
 ```html
 <nav class="transition">
   <a class="navbar-brand random-color transition" href="/">Happy Coding</a>
-  <a class="nav-link random-color transition" href="/HappyCoding/tutorials">Tutorials</a>
-  <a class="nav-link random-color transition" href="/HappyCoding/examples">Examples</a>
-  <a class="nav-link random-color transition" href="/HappyCoding/blog">Blog</a>
-  <a class="nav-link random-color transition" href="HappyCoding/about">About</a>
+  <a class="nav-link random-color transition" href="/tutorials">Tutorials</a>
+  <a class="nav-link random-color transition" href="/examples">Examples</a>
+  <a class="nav-link random-color transition" href="/blog">Blog</a>
+  <a class="nav-link random-color transition" href="/about">About</a>
   <a class="nav-link random-color transition" href="/teaching">Teaching</a>
   <a class="nav-link random-color transition" href="http://forum.HappyCoding.io">Forum</a>
 
   <a class="nav-link" href="https://twitter.com/TheKevinWorkman">
-    <img class="nav-img" src="/images/twitter.png" /></a>
+    <img class="nav-img" src="/HappyCoding/images/twitter.png" /></a>
   <a class="nav-link" href="https://www.facebook.com/HappyCoding.io/">
-    <img class="nav-img" src="/images/facebook.png" /></a>
+    <img class="nav-img" src="/HappyCoding/images/facebook.png" /></a>
   <a class="nav-link" href="https://github.com/KevinWorkman/HappyCoding">
-    <img class="nav-img" src="/images/GitHub-Mark-32px.png" /></a>
+    <img class="nav-img" src="/HappyCoding/images/GitHub-Mark-32px.png" /></a>
 </nav>
 ```
 

@@ -32,7 +32,7 @@ First you have to enable developer options on your phone. Follow the [dev option
 
 Next, open up developer options by going to `Settings`, then `System`, then `Developer options`. There are a bunch of interesting options here that you can play with (see [dev options](https://developer.android.com/studio/debug/dev-options.html) for a few), but the one we care about for now is `USB Debugging`.
 
-<img src="/HappyCoding/tutorials/android/images/hello-world-2.png" style="width: 500px;" />
+<img src="/tutorials/android/images/hello-world-2.png" style="width: 500px;" />
 
 Enable this setting, which will allow you to send apps from your computer to your phone.
 
@@ -74,7 +74,7 @@ Click the play button (it's a green triangle near the upper-right corner of Andr
 
 Select your phone and click the `OK` button. Android Studio will run the app on your phone, and you should see this:
 
-<img src="/HappyCoding/tutorials/android/images/hello-world-5.png" style="width: 500px" />
+<img src="/tutorials/android/images/hello-world-5.png" style="width: 500px" />
 
 Also note that this installs the app on your phone, so if you close the app you can open it again just like any other app.
 
@@ -141,10 +141,10 @@ This code takes the button we created in `activity_main.xml` and adds a listener
 
 Press the play button again, and you should see our modified app running on your phone:
 
-<img src="/HappyCoding/tutorials/android/images/hello-world-6.png" style="width:500px" />
+<img src="/tutorials/android/images/hello-world-6.png" style="width:500px" />
 
 Click the button to see the dialog:
 
-<img src="/HappyCoding/tutorials/android/images/hello-world-7.png" style="width:500px" />
+<img src="/tutorials/android/images/hello-world-7.png" style="width:500px" />
 
 Congratulations, you're an Android developer!

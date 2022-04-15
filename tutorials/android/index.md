@@ -14,10 +14,10 @@ sort-key: 700
 These tutorials assume you're already familiar with the basics of programming and that you've already read [the Processing tutorials](/tutorials/processing) and [the Java tutorials](/tutorials/java). You should be familiar with object oriented programming.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/hello-world" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/anatomy" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/layouts" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/activities" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/storage" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/android/custom-drawing" %}
+{% include url-thumbnail.html url="/tutorials/android/hello-world" %}
+{% include url-thumbnail.html url="/tutorials/android/anatomy" %}
+{% include url-thumbnail.html url="/tutorials/android/layouts" %}
+{% include url-thumbnail.html url="/tutorials/android/activities" %}
+{% include url-thumbnail.html url="/tutorials/android/storage" %}
+{% include url-thumbnail.html url="/tutorials/android/custom-drawing" %}
 </div>

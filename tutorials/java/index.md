@@ -14,15 +14,15 @@ sort-key: 400
 These tutorials assume you're already familiar with the basics of programming and that you've already read [the Processing tutorials](/tutorials/processing/). You can build on that knowledge to "graduate" to Java!
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/setup" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/hello-world" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/creating-classes" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/errors" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/inheritance" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/swing" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/libraries" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/eclipse" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/exporting-jars" %}
+{% include url-thumbnail.html url="/tutorials/java/setup" %}
+{% include url-thumbnail.html url="/tutorials/java/hello-world" %}
+{% include url-thumbnail.html url="/tutorials/java/creating-classes" %}
+{% include url-thumbnail.html url="/tutorials/java/errors" %}
+{% include url-thumbnail.html url="/tutorials/java/inheritance" %}
+{% include url-thumbnail.html url="/tutorials/java/swing" %}
+{% include url-thumbnail.html url="/tutorials/java/libraries" %}
+{% include url-thumbnail.html url="/tutorials/java/eclipse" %}
+{% include url-thumbnail.html url="/tutorials/java/exporting-jars" %}
 </div>
 
 ---
@@ -32,6 +32,6 @@ These tutorials assume you're already familiar with the basics of programming an
 Check these out as you need them.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/processing-in-java" %}
-{% include url-thumbnail.html url="/HappyCoding/tutorials/java/unit-testing" %}
+{% include url-thumbnail.html url="/tutorials/java/processing-in-java" %}
+{% include url-thumbnail.html url="/tutorials/java/unit-testing" %}
 </div>

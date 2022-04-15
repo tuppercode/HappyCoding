@@ -432,7 +432,7 @@ When you encounter a `NullPointerException`, try using `println()` statements to
 
 You can learn more about debugging here:
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/debugging" %}
+{% include url-thumbnail.html url="/tutorials/processing/debugging" %}
 
 # Object Functions
 

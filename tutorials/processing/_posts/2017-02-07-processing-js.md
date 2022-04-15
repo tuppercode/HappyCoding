@@ -133,4 +133,4 @@ Like I mentioned above, Processing.js is no longer maintained or recommended. It
 
 You can also read this tutorial for more info on the differences between the various versions of Processing:
 
-{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/which-processing" %}
+{% include url-thumbnail.html url="/tutorials/p5js/which-processing" %}

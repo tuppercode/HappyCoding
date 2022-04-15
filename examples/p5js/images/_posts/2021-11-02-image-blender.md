@@ -17,8 +17,8 @@ This sketch takes two images and blends them together by taking the average of e
 For example, if you start with these images:
 
 <div style="display:flex">
-<img src="/HappyCoding/examples/p5js/images/images/image-blender-2.png" style="width:50%" alt="leaf"/>
-<img src="/HappyCoding/examples/p5js/images/images/image-blender-3.png" style="width:50%" alt="tree"/>
+<img src="/examples/p5js/images/images/image-blender-2.png" style="width:50%" alt="leaf"/>
+<img src="/examples/p5js/images/images/image-blender-3.png" style="width:50%" alt="tree"/>
 </div>
 
 The sketch blends them together to create this image:
