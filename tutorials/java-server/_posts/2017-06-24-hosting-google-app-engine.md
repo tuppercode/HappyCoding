@@ -157,7 +157,7 @@ Before we can deploy our web app on Google App Engine, we need to add one more f
 	<version>version-1</version>
 	<threadsafe>true</threadsafe>
 	<static-files>
-		<include path="/images/*" ></include>
+		<include path="/HappyCoding/images/*" ></include>
 	</static-files>
 </appengine-web-app>
 ```
