@@ -12,4 +12,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-theme: jekyll-theme-slate
