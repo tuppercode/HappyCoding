@@ -110,7 +110,7 @@ Try inspecting these elements:
 	<li>List Item Three</li>
 </ul>
 
-<img src="/HappyCoding/images/random-walkers-1.png" />
+<img src="/images/random-walkers-1.png" />
 
 Try playing with the styles inside your browser's developer tools: add borders, change the size, change background colors. This is another handy tool for debugging the layout of your page.
 
