@@ -64,11 +64,11 @@ And here's what the code for the navigation bar looks like after I remove Bootst
   <a class="nav-link random-color transition" href="http://forum.HappyCoding.io">Forum</a>
 
   <a class="nav-link" href="https://twitter.com/TheKevinWorkman">
-    <img class="nav-img" src="/HappyCoding/images/twitter.png" /></a>
+    <img class="nav-img" src="/images/twitter.png" /></a>
   <a class="nav-link" href="https://www.facebook.com/HappyCoding.io/">
-    <img class="nav-img" src="/HappyCoding/images/facebook.png" /></a>
+    <img class="nav-img" src="/images/facebook.png" /></a>
   <a class="nav-link" href="https://github.com/KevinWorkman/HappyCoding">
-    <img class="nav-img" src="/HappyCoding/images/GitHub-Mark-32px.png" /></a>
+    <img class="nav-img" src="/images/GitHub-Mark-32px.png" /></a>
 </nav>
 ```
 
