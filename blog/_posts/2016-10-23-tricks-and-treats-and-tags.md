@@ -127,7 +127,7 @@ function shuffleArray(array) {
 shuffleArray(tagArray);
 
 for (var tagIndex in tagArray) {
-	$("#posts").append('<a href="/tags/?tag=' + tagArray[tagIndex].tag + '" style="font-size: ' + Math.max(12, Math.min(72, (8*tagArray[tagIndex].count))) + 'pt; margin:25px;">' + tagArray[tagIndex].tag + '</a> ');
+	$("#posts").append('<a href="/HappyCoding/tags/?tag=' + tagArray[tagIndex].tag + '" style="font-size: ' + Math.max(12, Math.min(72, (8*tagArray[tagIndex].count))) + 'pt; margin:25px;">' + tagArray[tagIndex].tag + '</a> ');
 }
 ```
 

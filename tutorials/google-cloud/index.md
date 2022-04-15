@@ -22,15 +22,15 @@ The full code for the examples used in these tutorials is available on [GitHub](
 These tutorials have been updated to use Java 11 and the latest Cloud SDK.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/google-cloud/setup" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/app-engine" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/datastore" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/oauth-2" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/cloud-storage" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/vision" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/natural-language" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/translation" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/maps" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/setup" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/app-engine" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/datastore" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/oauth-2" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/cloud-storage" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/vision" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/natural-language" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/translation" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/maps" %}
 </div>
 
 ---
@@ -39,7 +39,7 @@ These tutorials have been updated to use Java 11 and the latest Cloud SDK.
 
 Have an existing Java 8 Google Cloud project that you want to migrate to Google Cloud's Java 11 runtime? Follow this guide:
 
-{% include url-thumbnail.html url="/tutorials/google-cloud/migrating-to-java-11" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/migrating-to-java-11" %}
 
 ---
 
@@ -48,9 +48,9 @@ Have an existing Java 8 Google Cloud project that you want to migrate to Google 
 These tutorials use Java 8 and the standalone App Engine SDK, which is now deprecated. I'm leaving these for reference.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/google-cloud/java-8/setup" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/java-8/app-engine" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/java-8/datastore" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/java-8/authentication" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/java-8/blobstore" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/java-8/setup" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/java-8/app-engine" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/java-8/datastore" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/java-8/authentication" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/java-8/blobstore" %}
 </div>

@@ -18,13 +18,13 @@ This multiple deployment feature is extremely useful. It allows you to write you
 These tutorials assume you're already familiar with the basics of programming and that you've already read [the Processing tutorials](/tutorials/processing) and [the Java tutorials](/tutorials/java). You should be familiar with object oriented programming. If you're planning on deploying to Android, you should also probably read [the Android tutorials](/tutorials/android) as well.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/libgdx/setup" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/hello-world" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/input" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/game-screens" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/graphics" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/images" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/sound" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/libraries" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/pathfinding" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/setup" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/hello-world" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/input" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/game-screens" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/graphics" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/images" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/sound" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/libraries" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/pathfinding" %}
 </div>

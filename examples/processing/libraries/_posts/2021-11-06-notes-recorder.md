@@ -76,7 +76,7 @@ void draw() {
 The result is a random "song" that sounds like this:
 
 <audio controls>
-  <source src="/examples/processing/libraries/data/random-synthesizer.mp3" type="audio/mpeg">
+  <source src="/HappyCoding/examples/processing/libraries/data/random-synthesizer.mp3" type="audio/mpeg">
 </audio>
 
 This code builds on the [random synthesizer](/examples/processing/libraries/random-synthesizer) example, as well as [Minim's AudioRecorder example](http://code.compartmental.net/minim/audiorecorder_class_audiorecorder.html).

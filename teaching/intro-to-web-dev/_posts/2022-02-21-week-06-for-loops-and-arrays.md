@@ -30,7 +30,7 @@ First, watch this video and read through the tutorial to learn about `for` loops
 
 {% include youtube-embed.html slug="yTuEH6BGnnM" %}
 
-{% include url-thumbnail.html url="/tutorials/javascript/for-loops" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/for-loops" %}
 
 ---
 
@@ -40,7 +40,7 @@ Then, watch this video and read through the tutorial to learn about arrays:
 
 {% include youtube-embed.html slug="0yQjB2kGqnM" %}
 
-{% include url-thumbnail.html url="/tutorials/javascript/arrays" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/arrays" %}
 
 ---
 

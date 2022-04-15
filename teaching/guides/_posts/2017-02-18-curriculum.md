@@ -17,7 +17,7 @@ My goal with Happy Coding is to document every topic I've learned over the years
 
 So if you're a teacher thinking about creating a multi-year curriculum, or if you're curious about how everything fits together, here's the order I'd recommend learning and teaching various concepts:
 
-<!-- <object> --><object data="/tutorials/images/tutorial-path.svg" type="image/svg+xml" alt="tutorial path"></object><!-- </object> -->
+<!-- <object> --><object data="/HappyCoding/tutorials/images/tutorial-path.svg" type="image/svg+xml" alt="tutorial path"></object><!-- </object> -->
 
 If I were planning a multi-year curriculum, I would start with p5.js or Processing (for the pros and cons of each, see the [intro to computer science teaching guide](/teaching/guides/semester)). Then I would organize  the rest of the concepts in a few follow-up courses, grouped by different tracks that culminate in more advanced topics. I'll briefly describe each track and course below.
 
@@ -42,7 +42,7 @@ The web development track uses p5.js to introduce the fundamentals of coding, an
 
 [p5.js](/tutorials/p5js) is perfect for introducing the fundamentals of coding, since it's designed with accessibility in mind. New coders can start coding animated and interactive programs right in their browser, without downloading or installing anything. Programs written in p5.js can also easily be shared, which I personally think is super important for new coders. (And I imagine makes it easier to grade!)
 
-{% include url-thumbnail.html url="/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
 
 See the  [intro to computer science teaching guide](/teaching/guides/semester) for more information on how you might organize a p5.js course.
 
@@ -50,9 +50,9 @@ See the  [intro to computer science teaching guide](/teaching/guides/semester) f
 
 Because p5.js is written in JavaScript, it leads pretty naturally to learning about HTML, JavaScript, and CSS. All of these could be combined into a single web development course that follows the p5.js course.
 
-{% include url-thumbnail.html url="/tutorials/html/" %}
-{% include url-thumbnail.html url="/tutorials/javascript/" %}
-{% include url-thumbnail.html url="/tutorials/html/css" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/html/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/html/css" %}
 
 # Java Track
 
@@ -62,7 +62,7 @@ The Java track uses Processing to introduce the fundamentals of coding, and foll
 
 Similar to p5.js, Processing is great for introducing the fundamentals of coding.
 
-{% include url-thumbnail.html url="/tutorials/processing/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/" %}
 
 See the  [intro to computer science teaching guide](/teaching/guides/semester) for more information on how you might organize a Processing course.
 
@@ -70,7 +70,7 @@ See the  [intro to computer science teaching guide](/teaching/guides/semester) f
 
 Because Processing is built with Java, it leads pretty naturally to learning about Java. I'd use a Java course to introduce more advanced topics like inheritance, data structures and algorithms, and interacting with complicated libraries.
 
-{% include url-thumbnail.html url="/tutorials/java/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java/" %}
 
 This course would also work as the [Advanced Placement Computer Science A](https://en.wikipedia.org/wiki/AP_Computer_Science) course.
 
@@ -82,8 +82,8 @@ I split server-side coding and Google Cloud into two tutorial tracks because I l
 
 But realistically, if you're going to teach server-side coding and Google Cloud, I would probably combine them into a single course rather than splitting it into two separate courses. Or it's totally fine to teach server-side coding without mentioning Google Cloud.
 
-{% include url-thumbnail.html url="/tutorials/java-server/" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/" %}
 
 # Advanced Topics
 
@@ -93,13 +93,13 @@ That's already probably too many courses to fit into a high school program, but 
 
 After students have seen concepts like OOP and can understand the flow of a Java application, they can branch out into Android development.
 
-{% include url-thumbnail.html url="/tutorials/android/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/android/" %}
 
 ## libGDX
 
 libGDX is a game development framework written in Java.
 
-{% include url-thumbnail.html url="/tutorials/libgdx/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/" %}
 
 # Accelerated Track
 

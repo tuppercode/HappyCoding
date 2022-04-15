@@ -16,7 +16,7 @@ tags: [tutorial, how-to, art]
 
 Are you thinking about selling your art in an online store like [my etsy store](https://www.etsy.com/shop/HappyCoding)? (Shameless self-promotion) This guide walks you through the process of creating and selling physical prints based on your digital art.
 
-<img src="/tutorials/how-to/images/random-walker-etsy.jpg" style="width:500px" />
+<img src="/HappyCoding/tutorials/how-to/images/random-walker-etsy.jpg" style="width:500px" />
 
 This guide uses [Printful](https://www.printful.com/) and [Etsy](https://www.etsy.com/), but most of the basic ideas apply to any printing service or online marketplace. If you're new to selling your art, I'd recommend working through the steps below and then branching out into other services if you're interested in them.
 
@@ -110,7 +110,7 @@ This is handy for trying out different approaches and seeing what they look like
 
 If you're planning on creating a poster, you might consider ordering a few 8x10 samples to test out different approaches. Keep in mind the DPI: don't just shrink your full image down!
 
-<img src="/tutorials/how-to/images/stanley-etsy.jpg" style="width:500px" />
+<img src="/HappyCoding/tutorials/how-to/images/stanley-etsy.jpg" style="width:500px" />
 
 # Step 3: Setup an Etsy Store
 

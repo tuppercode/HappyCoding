@@ -30,7 +30,7 @@ First, watch this video and read through the tutorial to learn about JavaScript 
 
 {% include youtube-embed.html slug="KZLA_GUjmz0" %}
 
-{% include url-thumbnail.html url="/tutorials/javascript/objects" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/objects" %}
 
 ---
 

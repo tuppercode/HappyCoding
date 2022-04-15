@@ -59,5 +59,5 @@ Change `YOUR_API_KEY` to your actual API key and then open the file in your brow
 
 Learn more in these tutorials:
 
-{% include url-thumbnail.html url="/tutorials/google-cloud/maps" %}
-{% include url-thumbnail.html url="/tutorials/javascript/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/maps" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/" %}

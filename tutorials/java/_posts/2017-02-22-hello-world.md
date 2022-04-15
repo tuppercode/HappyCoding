@@ -183,7 +183,7 @@ We'll talk more about how to read this error [later](/tutorials/java/errors), bu
 
 In the Java API webpage, notice that the `Scanner` class is inside the `java.util` package:
 
-<img src ="/tutorials/java/images/hello-world-2.png" style="border: thin solid darkgray" />
+<img src ="/HappyCoding/tutorials/java/images/hello-world-2.png" style="border: thin solid darkgray" />
 
 This means that we have to **import** the class before we can use it. Import statements go at the top of our code:
 

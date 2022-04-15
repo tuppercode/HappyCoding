@@ -30,7 +30,7 @@ First, watch this video and read through the tutorial to learn about Bootstrap:
 
 {% include youtube-embed.html slug="nbJAU2234_c" %}
 
-{% include url-thumbnail.html url="/tutorials/javascript/bootstrap" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/bootstrap" %}
 
 ---
 

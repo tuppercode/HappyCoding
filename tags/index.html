@@ -118,7 +118,7 @@ async function buildUi() {
     shuffle(tagArray);
 
     for (var tagIndex in tagArray) {
-      document.querySelector("#posts").innerHTML += '<a href="/tags/?tag=' +
+      document.querySelector("#posts").innerHTML += '<a href="/HappyCoding/tags/?tag=' +
           tagArray[tagIndex].tag + '" style="font-size: ' +
           Math.max(12, Math.min(72, (8*tagArray[tagIndex].count))) +
           'pt; margin:25px;">' + tagArray[tagIndex].tag + '</a> ';

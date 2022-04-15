@@ -15,24 +15,24 @@ nextPost: /tutorials/p5js/welcome-to-coding
 New to coding? Start here!
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/p5js/welcome-to-coding" %}
-{% include url-thumbnail.html url="/tutorials/p5js/calling-functions" %}
-{% include url-thumbnail.html url="/tutorials/p5js/using-variables" %}
-{% include url-thumbnail.html url="/tutorials/p5js/creating-variables" %}
-{% include url-thumbnail.html url="/tutorials/p5js/creating-functions" %}
-{% include url-thumbnail.html url="/tutorials/p5js/debugging" %}
-{% include url-thumbnail.html url="/tutorials/p5js/if-statements" %}
-{% include url-thumbnail.html url="/tutorials/p5js/animation" %}
-{% include url-thumbnail.html url="/tutorials/p5js/input" %}
-{% include url-thumbnail.html url="/tutorials/p5js/for-loops" %}
-{% include url-thumbnail.html url="/tutorials/p5js/arrays" %}
-{% include url-thumbnail.html url="/tutorials/p5js/using-objects" %}
-{% include url-thumbnail.html url="/tutorials/p5js/creating-classes" %}
-{% include url-thumbnail.html url="/tutorials/p5js/array-functions" %}
-{% include url-thumbnail.html url="/tutorials/p5js/images" %}
-{% include url-thumbnail.html url="/tutorials/p5js/web-dev" %}
-{% include url-thumbnail.html url="/tutorials/p5js/libraries" %}
-{% include url-thumbnail.html url="/tutorials/p5js/next" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/welcome-to-coding" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/calling-functions" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/using-variables" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/creating-variables" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/creating-functions" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/debugging" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/if-statements" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/animation" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/input" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/for-loops" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/arrays" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/using-objects" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/creating-classes" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/array-functions" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/images" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/web-dev" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/libraries" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/next" %}
 </div>
 
 ---
@@ -41,8 +41,8 @@ New to coding? Start here!
 
 Want more info before you dive into coding? Read these!
 
-{% include url-thumbnail.html url="/tutorials/p5js/which-processing" %}
-{% include url-thumbnail.html url="/tutorials/p5js/editors" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/which-processing" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/editors" %}
 
 ---
 
@@ -50,8 +50,8 @@ Want more info before you dive into coding? Read these!
 
 These tutorials assume you're already familiar with the fundamentals of coding and that you've already read [the Processing tutorials](/tutorials/processing/) and [the JavaScript tutorials](/tutorials/javascript/).
 
-{% include url-thumbnail.html url="/tutorials/p5js/hello-world" %}
-{% include url-thumbnail.html url="/tutorials/p5js/review" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/hello-world" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/review" %}
 
 ---
 
@@ -59,4 +59,4 @@ These tutorials assume you're already familiar with the fundamentals of coding a
 
 Already have experience with p5.js? These are for you.
 
-{% include url-thumbnail.html url="/tutorials/p5js/random" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/random" %}

@@ -97,7 +97,7 @@ This example overrides the `onDraw()` function and uses the `canvas` argument to
 
 Our app now looks like this:
 
-<img src="/tutorials/android/images/custom-drawing-1.png" style="width: 500px;" />
+<img src="/HappyCoding/tutorials/android/images/custom-drawing-1.png" style="width: 500px;" />
 
 ### Width and Height
 
@@ -141,7 +141,7 @@ public class CustomView extends View {
 
 This view draws three circles, and the position of the circles is based on the size of the view.
 
-<img src="/tutorials/android/images/custom-drawing-2.png" style="width: 500px;" />
+<img src="/HappyCoding/tutorials/android/images/custom-drawing-2.png" style="width: 500px;" />
 
 ## Input Events
 
@@ -210,7 +210,7 @@ Notice that the `onTouchEvent()` function calls the `invalidate()` function. Thi
 
 The result is a simple drawing app that shows randomly colored circles wherever the user touches:
 
-<img src="/tutorials/android/images/custom-drawing-3.png" style="width: 500px;" />
+<img src="/HappyCoding/tutorials/android/images/custom-drawing-3.png" style="width: 500px;" />
 
 ## More Info
 

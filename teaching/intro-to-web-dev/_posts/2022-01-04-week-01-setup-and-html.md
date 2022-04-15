@@ -94,4 +94,4 @@ For now, focus on HTML without worrying too much about styling. You'll learn abo
 
 If you finish all of the above and want some more practice, try creating a GitHub profile README by following this guide:
 
-{% include url-thumbnail.html url="/tutorials/html/github-profile-readme" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/html/github-profile-readme" %}

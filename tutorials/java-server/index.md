@@ -20,9 +20,9 @@ Pick a server and run with it.
 Not sure which to choose? Try each one out and see which one you like the best!
 
 <div class="thumbnail-link-container">
-  {% include url-thumbnail.html url="/tutorials/java-server/tomcat" %}
-  {% include url-thumbnail.html url="/tutorials/java-server/jetty-setup" %}
-  {% include url-thumbnail.html url="/tutorials/java-server/embedded-jetty" %}
+  {% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/tomcat" %}
+  {% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/jetty-setup" %}
+  {% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/embedded-jetty" %}
 </div>
 
 # Javax vs Jakarta
@@ -46,26 +46,26 @@ This is all really confusing, so if you have a question, please reach out to me 
 After you've run a server, read through these tutorials in order.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/java-server/web-app" %}
-{% include url-thumbnail.html url="/tutorials/java-server/client-server" %}
-{% include url-thumbnail.html url="/tutorials/java-server/servlets" %}
-{% include url-thumbnail.html url="/tutorials/java-server/jsp" %}
-{% include url-thumbnail.html url="/tutorials/java-server/eclipse-ee" %}
-{% include url-thumbnail.html url="/tutorials/java-server/post" %}
-{% include url-thumbnail.html url="/tutorials/java-server/libraries" %}
-{% include url-thumbnail.html url="/tutorials/java-server/sanitizing-user-input" %}
-{% include url-thumbnail.html url="/tutorials/java-server/sessions" %}
-{% include url-thumbnail.html url="/tutorials/java-server/secure-password-storage" %}
-{% include url-thumbnail.html url="/tutorials/java-server/thread-safety" %}
-{% include url-thumbnail.html url="/tutorials/java-server/hosting-aws" %}
-{% include url-thumbnail.html url="/tutorials/java-server/hosting-google-app-engine" %}
-{% include url-thumbnail.html url="/tutorials/java-server/databases" %}
-{% include url-thumbnail.html url="/tutorials/java-server/uploading-files" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/web-app" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/client-server" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/servlets" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/jsp" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/eclipse-ee" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/post" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/libraries" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/sanitizing-user-input" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/sessions" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/secure-password-storage" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/thread-safety" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/hosting-aws" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/hosting-google-app-engine" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/databases" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/uploading-files" %}
 </div>
 
 # Advanced
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/java-server/rest-api" %}
-{% include url-thumbnail.html url="/tutorials/java-server/struts" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/rest-api" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/struts" %}
 </div>

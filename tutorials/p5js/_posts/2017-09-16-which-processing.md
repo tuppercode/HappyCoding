@@ -137,5 +137,5 @@ Both the [p5.js tutorials](/tutorials/p5js) and the [Processing tutorials](/tuto
 
 ---
 
-{% include url-thumbnail.html url="/tutorials/p5js/" %}
-{% include url-thumbnail.html url="/tutorials/processing/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/" %}

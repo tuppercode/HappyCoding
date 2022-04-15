@@ -93,5 +93,5 @@ mvn package exec:java
 
 Learn more in these tutorials:
 
-{% include url-thumbnail.html url="/tutorials/google-cloud/translation" %}
-{% include url-thumbnail.html url="/tutorials/java/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/translation" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java/" %}

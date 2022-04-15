@@ -14,20 +14,20 @@ sort-key: 400
 
 # Hello World
 
-{% include url-thumbnail.html url="/examples/java/higher-lower-human-player" %}
-{% include url-thumbnail.html url="/examples/java/higher-lower-random-computer-player" %}
-{% include url-thumbnail.html url="/examples/java/free-paycheck-calculator" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/higher-lower-human-player" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/higher-lower-random-computer-player" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/free-paycheck-calculator" %}
 
 ---
 
 # Swing
 
-{% include url-thumbnail.html url="/examples/java/circle-button" %}
-{% include url-thumbnail.html url="/examples/java/higher-lower-computer-gui" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/circle-button" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/higher-lower-computer-gui" %}
 
 ---
 
 # Processing in Java
 
-{% include url-thumbnail.html url="/examples/java/swing-control-window" %}
-{% include url-thumbnail.html url="/examples/java/processing-showcase" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/swing-control-window" %}
+{% include url-thumbnail.html url="/HappyCoding/examples/java/processing-showcase" %}

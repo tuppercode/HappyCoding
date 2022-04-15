@@ -21,16 +21,16 @@ If you've never written a line of code before, or if you've taken an intro cours
 - Have some Java experience? Start with the [Processing tutorials](/tutorials/processing)!
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/how-to/learn-coding" %}
-{% include url-thumbnail.html url="/tutorials/p5js/" %}
-{% include url-thumbnail.html url="/tutorials/processing/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/learn-coding" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/" %}
 </div>
 
 
 Not sure which is right for you? Read the [Which Processing should I use?](/tutorials/p5js/which-processing) guide to learn how it all fits together.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/p5js/which-processing" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/which-processing" %}
 <div style="width: 200px;"></div>
 <div style="width: 200px;"></div>
 </div>
@@ -41,7 +41,7 @@ Not sure which is right for you? Read the [Which Processing should I use?](/tuto
 
 After you learn about the fundamentals of coding, you can learn more advanced topics in whatever order seems most interesting to you. But if it helps, here's the order I would recommend:
 
-<object data="/tutorials/images/tutorial-path.svg"
+<object data="/HappyCoding/tutorials/images/tutorial-path.svg"
     type="image/svg+xml" alt="tutorial path"></object>
 
 ---
@@ -51,9 +51,9 @@ After you learn about the fundamentals of coding, you can learn more advanced to
 Learn how to make websites.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/p5js/" %}
-{% include url-thumbnail.html url="/tutorials/html/" %}
-{% include url-thumbnail.html url="/tutorials/javascript/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/p5js/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/html/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/javascript/" %}
 </div>
 
 ---
@@ -63,12 +63,12 @@ Learn how to make websites.
 Starting with Processing, Java takes you on a path to advanced topics like server-side coding and Android development.
 
 <div class="thumbnail-link-container">
-{% include url-thumbnail.html url="/tutorials/processing/" %}
-{% include url-thumbnail.html url="/tutorials/java/" %}
-{% include url-thumbnail.html url="/tutorials/java-server/" %}
-{% include url-thumbnail.html url="/tutorials/google-cloud/" %}
-{% include url-thumbnail.html url="/tutorials/android/" %}
-{% include url-thumbnail.html url="/tutorials/libgdx/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/processing/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/java-server/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/google-cloud/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/android/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/libgdx/" %}
 </div>
 
 ---
@@ -77,7 +77,7 @@ Starting with Processing, Java takes you on a path to advanced topics like serve
 
 General how-to guides not specific to any language.
 
-{% include url-thumbnail.html url="/tutorials/how-to/" %}
+{% include url-thumbnail.html url="/HappyCoding/tutorials/how-to/" %}
 
 ---
 
