@@ -12,31 +12,31 @@
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lato&display=swap">
-    <link rel="stylesheet" type="text/css" href="/css/syntax.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
 
-    <link rel="shortcut icon" type="image/png" href="/images/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png" />
 
-    <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+    <script async href="{{ site.baseurl }}//assets.codepen.io/assets/embed/ei.js"></script>
     {%- if page.includeP5jsWidget %}
-    <script src="//toolness.github.io/p5.js-widget/p5-widget.js"></script>
+    <script href="{{ site.baseurl }}//toolness.github.io/p5.js-widget/p5-widget.js"></script>
     {% endif -%}
-    <script src="/js/modernizr-transitions.js"></script>
-    <script src="/js/main.js"></script>
+    <script href="{{ site.baseurl }}/js/modernizr-transitions.js"></script>
+    <script href="{{ site.baseurl }}/js/main.js"></script>
   </head>
   <body>
     <div class="container">
       <nav>
-        <a class="navbar-home" href="/">Happy Coding</a>
+        <a class="navbar-home" href="{{ site.baseurl }}/">Happy Coding</a>
         <div class="nav-links">
-          <a class="nav-link" href="/tutorials">Tutorials</a>
-          <a class="nav-link" href="/examples">Examples</a>
-          <a class="nav-link" href="/blog">Blog</a>
-          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="{{ site.baseurl }}/tutorials">Tutorials</a>
+          <a class="nav-link" href="{{ site.baseurl }}/examples">Examples</a>
+          <a class="nav-link" href="{{ site.baseurl }}/blog">Blog</a>
+          <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
           <a class="nav-link" href="http://forum.HappyCoding.io">Forum</a>
           <a id="social-nav-link" href="https://twitter.com/TheKevinWorkman">
             <img id="social-nav-img" class="social-img"
-                src="/HappyCoding/images/twitter.png" alt="twitter" />
+                href="{{ site.baseurl }}/HappyCoding/images/twitter.png" alt="twitter" />
           </a>
           <script>setRandomSocialLink();</script>
         </div>
@@ -72,19 +72,19 @@
 
       <footer>
         <a href="https://twitter.com/TheKevinWorkman">
-          <img class="footer-img" src="/images/twitter.png" alt="twitter" /></a>
+          <img class="footer-img" href="{{ site.baseurl }}/images/twitter.png" alt="twitter" /></a>
         <a href="https://github.com/KevinWorkman/HappyCoding">
-          <img class="footer-img" src="/images/GitHub-Mark-32px.png" alt="github" /></a>
+          <img class="footer-img" href="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github" /></a>
         <a href="https://www.etsy.com/shop/HappyCoding">
-          <img class="footer-img" src="/images/etsy.png" alt="etsy" /></a>
+          <img class="footer-img" href="{{ site.baseurl }}/images/etsy.png" alt="etsy" /></a>
         <a href="https://youtube.com/TheKevinWorkman">
-          <img class="footer-img" src="/images/youtube.png" alt="youtube" /></a>
-        <a href="/feed.xml">
-          <img class="footer-img" src="/images/rss.png" alt="RSS" /></a>
+          <img class="footer-img" href="{{ site.baseurl }}/images/youtube.png" alt="youtube" /></a>
+        <a href="{{ site.baseurl }}/feed.xml">
+          <img class="footer-img" href="{{ site.baseurl }}/images/rss.png" alt="RSS" /></a>
 
         <p>Question? Request? Just want to talk about coding? Come say hi on
           <a href="http://forum.happycoding.io/">forum.HappyCoding.io</a>!</p>
-        <p><a href="/license.html">HappyCoding.io is open source.</a> -
+        <p><a href="{{ site.baseurl }}/license.html">HappyCoding.io is open source.</a> -
           <a href="https://github.com/KevinWorkman/HappyCoding/wiki/Contributing">
             How to contribute?</a> -
           <a href="https://github.com/KevinWorkman/HappyCoding/blob/gh-pages/{{ page.path }}">

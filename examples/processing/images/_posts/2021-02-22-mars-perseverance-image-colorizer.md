@@ -23,13 +23,13 @@ One of the many cool things is that all of the pictures it takes are available o
 You might notice that some of these raw images look very similar.
 
 <a href="https://mars.nasa.gov/mars2020/multimedia/raw-images/NRR_0002_0667129844_352ECM_N0010052AUT_04096_00_2I3J01">
-  <img src="/examples/processing/images/images/mars-1-r.png" />
+  <img href="{{ site.baseurl }}/examples/processing/images/images/mars-1-r.png" />
 </a>
 <a href="https://mars.nasa.gov/mars2020/multimedia/raw-images/NRG_0002_0667129855_072ECM_N0010052AUT_04096_00_2I3J01">
-  <img src="/examples/processing/images/images/mars-1-g.png" />
+  <img href="{{ site.baseurl }}/examples/processing/images/images/mars-1-g.png" />
 </a>
 <a href="https://mars.nasa.gov/mars2020/multimedia/raw-images/NRB_0002_0667129875_554ECM_N0010052AUT_04096_00_2I3J01">
-  <img src="/examples/processing/images/images/mars-1-b.png" />
+  <img href="{{ site.baseurl }}/examples/processing/images/images/mars-1-b.png" />
 </a>
 
 As cool as Mars is, why do we need three copies of the same image with slightly different lighting?
@@ -82,27 +82,27 @@ In this case, "NR" stands for "navigation right", followed by R, G, or B.
 
 Try finding other channeled images on NASA's [raw image feed](https://mars.nasa.gov/mars2020/multimedia/raw-images/) and send them through the above code to create full color images yourself!
 
-<img src="/examples/processing/images/images/mars-2-r.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-2-g.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-2-b.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-2-r.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-2-g.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-2-b.png" style="width: 31.5%" />
 
-<img src="/examples/processing/images/images/mars-2.png" />
-
----
-
-<img src="/examples/processing/images/images/mars-3-r.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-3-g.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-3-b.png" style="width: 31.5%" />
-
-<img src="/examples/processing/images/images/mars-3.png" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-2.png" />
 
 ---
 
-<img src="/examples/processing/images/images/mars-4-r.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-4-g.png" style="width: 31.5%" />
-<img src="/examples/processing/images/images/mars-4-b.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-3-r.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-3-g.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-3-b.png" style="width: 31.5%" />
 
-<img src="/examples/processing/images/images/mars-4.png" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-3.png" />
+
+---
+
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-4-r.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-4-g.png" style="width: 31.5%" />
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-4-b.png" style="width: 31.5%" />
+
+<img href="{{ site.baseurl }}/examples/processing/images/images/mars-4.png" />
 
 ---
 

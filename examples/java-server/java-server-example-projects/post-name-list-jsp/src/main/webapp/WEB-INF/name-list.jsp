@@ -14,6 +14,6 @@
       <% } %>
     </ul>
 
-    <p>Click <a href="/post-name-list-jsp/index.html">here</a> to enter another name.</p>
+    <p>Click <a href="{{ site.baseurl }}/post-name-list-jsp/index.html">here</a> to enter another name.</p>
   </body>
 </html>

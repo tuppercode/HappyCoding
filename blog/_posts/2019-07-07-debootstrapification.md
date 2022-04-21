@@ -28,21 +28,21 @@ For example, Bootstrap makes it easy to create a nice interactive [navigation ba
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand random-color transition" href="/">Happy Coding</a>
+    <a class="navbar-brand random-color transition" href="{{ site.baseurl }}/">Happy Coding</a>
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav">
-      <li class="nav-item"><a class="nav-link random-color transition" href="/tutorials">Tutorials</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/examples">Examples</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/blog">Blog</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/about">About</a></li>
-      <li class="nav-item"><a class="nav-link random-color transition" href="/teaching">Teaching</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="{{ site.baseurl }}/tutorials">Tutorials</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="{{ site.baseurl }}/examples">Examples</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="{{ site.baseurl }}/blog">Blog</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="{{ site.baseurl }}/about">About</a></li>
+      <li class="nav-item"><a class="nav-link random-color transition" href="{{ site.baseurl }}/teaching">Teaching</a></li>
       <li class="nav-item"><a class="nav-link random-color transition" href="http://forum.HappyCoding.io">Forum</a></li>
     </ul>
 
     <ul class="nav navbar-nav navbar-right">
-      <li class="nav-item nav-img"><a style="" class="nav-link" href="https://twitter.com/TheKevinWorkman"><img id="twitter-img" src="/images/twitter-black.png" /></a></li>
-      <li class="nav-item nav-img"><a style="padding-top:14px; padding-bottom:14px;" class="nav-link" href="https://github.com/KevinWorkman/HappyCoding"><img id="github-img" src="/images/GitHub-Mark-32px.png" /></a></li>
+      <li class="nav-item nav-img"><a style="" class="nav-link" href="https://twitter.com/TheKevinWorkman"><img id="twitter-img" href="{{ site.baseurl }}/images/twitter-black.png" /></a></li>
+      <li class="nav-item nav-img"><a style="padding-top:14px; padding-bottom:14px;" class="nav-link" href="https://github.com/KevinWorkman/HappyCoding"><img id="github-img" href="{{ site.baseurl }}/images/GitHub-Mark-32px.png" /></a></li>
       <li class="nav-item"><a class="nav-link"><span class="glyphicon glyphicon-adjust" aria-label="Toggle Theme" onclick="toggleTheme()"></span></a></li>
     </ul>
   </div>
@@ -55,20 +55,20 @@ And here's what the code for the navigation bar looks like after I remove Bootst
 
 ```html
 <nav class="transition">
-  <a class="navbar-brand random-color transition" href="/">Happy Coding</a>
-  <a class="nav-link random-color transition" href="/tutorials">Tutorials</a>
-  <a class="nav-link random-color transition" href="/examples">Examples</a>
-  <a class="nav-link random-color transition" href="/blog">Blog</a>
-  <a class="nav-link random-color transition" href="/about">About</a>
-  <a class="nav-link random-color transition" href="/teaching">Teaching</a>
+  <a class="navbar-brand random-color transition" href="{{ site.baseurl }}/">Happy Coding</a>
+  <a class="nav-link random-color transition" href="{{ site.baseurl }}/tutorials">Tutorials</a>
+  <a class="nav-link random-color transition" href="{{ site.baseurl }}/examples">Examples</a>
+  <a class="nav-link random-color transition" href="{{ site.baseurl }}/blog">Blog</a>
+  <a class="nav-link random-color transition" href="{{ site.baseurl }}/about">About</a>
+  <a class="nav-link random-color transition" href="{{ site.baseurl }}/teaching">Teaching</a>
   <a class="nav-link random-color transition" href="http://forum.HappyCoding.io">Forum</a>
 
   <a class="nav-link" href="https://twitter.com/TheKevinWorkman">
-    <img class="nav-img" src="/images/twitter.png" /></a>
+    <img class="nav-img" href="{{ site.baseurl }}/images/twitter.png" /></a>
   <a class="nav-link" href="https://www.facebook.com/HappyCoding.io/">
-    <img class="nav-img" src="/images/facebook.png" /></a>
+    <img class="nav-img" href="{{ site.baseurl }}/images/facebook.png" /></a>
   <a class="nav-link" href="https://github.com/KevinWorkman/HappyCoding">
-    <img class="nav-img" src="/images/GitHub-Mark-32px.png" /></a>
+    <img class="nav-img" href="{{ site.baseurl }}/images/GitHub-Mark-32px.png" /></a>
 </nav>
 ```
 

@@ -19,7 +19,7 @@ Download the code as a `.zip` from DownGit [here](https://downgit.github.io/#/ho
 
 For example, here is the result for analyzing this image:
 
-<img src="/tutorials/google-cloud/images/stanley.jpg" style="width:300px" />
+<img href="{{ site.baseurl }}/tutorials/google-cloud/images/stanley.jpg" style="width:300px" />
 
 ```bash
 Cat: 0.99598557
@@ -124,7 +124,7 @@ public class CloudVisionHelloWorld {
 
 Change the `filePath` variable to point to an image on your computer.
 
-<img src="/tutorials/google-cloud/images/stanley.jpg" style="width:300px" />
+<img href="{{ site.baseurl }}/tutorials/google-cloud/images/stanley.jpg" style="width:300px" />
 
 Then run the project by executing this command:
 

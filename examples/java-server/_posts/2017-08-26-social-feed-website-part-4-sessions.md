@@ -110,8 +110,8 @@ This looks pretty much the same, except the `doPost()` function now gets the use
 <head>
 	<title>Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
 </head>
 <body>
@@ -119,12 +119,12 @@ This looks pretty much the same, except the `doPost()` function now gets the use
 <div class="container">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
-			<li><a href="/feed/">Social Feed Web App</a></li>
+			<li><a href="{{ site.baseurl }}/feed/">Social Feed Web App</a></li>
 			<% if(request.getSession().getAttribute("user") != null){ %>
-			<li><a href="/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
-			<li><a href="/logout">Logout</a></li>
+			<li><a href="{{ site.baseurl }}/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
+			<li><a href="{{ site.baseurl }}/logout">Logout</a></li>
 			<% } else{ %>
-			<li><a href="/login">Login</a></li>
+			<li><a href="{{ site.baseurl }}/login">Login</a></li>
 			<% } %>
 		</ul>
 	</nav>
@@ -156,7 +156,7 @@ This looks pretty much the same, except the `doPost()` function now gets the use
 		for(Post post : posts){ 
 	%>
 			<div class="panel panel-default">
-				<div class="panel-heading"><h4><a href="/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
+				<div class="panel-heading"><h4><a href="{{ site.baseurl }}/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
 				<div class="panel-body"><%= post.getMessage() %></div>
 				<div class="panel-footer">at <%= post.getDate().toString() %></div>
 			
@@ -266,8 +266,8 @@ The `LoginServlet` class handles requests related to logging in. The `doGet()` f
 <head>
 	<title>Login - Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
 </head>
 <body>
@@ -275,7 +275,7 @@ The `LoginServlet` class handles requests related to logging in. The `doGet()` f
 <div class="container">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
-			<li><a href="/feed/">Social Feed Web App</a></li>
+			<li><a href="{{ site.baseurl }}/feed/">Social Feed Web App</a></li>
 		</ul>
 	</nav>
 	
@@ -298,7 +298,7 @@ The `LoginServlet` class handles requests related to logging in. The `doGet()` f
 		<button type="submit" class="btn btn-primary">Login</button>
 	</form>
 	
-	<p>Don't have an account? Register <a href="/register">here</a>!</p>
+	<p>Don't have an account? Register <a href="{{ site.baseurl }}/register">here</a>!</p>
 
 </div>
 		
@@ -353,8 +353,8 @@ This class is very similar to `LoginServlet.java`, except instead of handling lo
 <head>
 	<title>Register - Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
 </head>
 <body>
@@ -362,7 +362,7 @@ This class is very similar to `LoginServlet.java`, except instead of handling lo
 <div class="container">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
-			<li><a href="/feed/">Social Feed Web App</a></li>
+			<li><a href="{{ site.baseurl }}/feed/">Social Feed Web App</a></li>
 		</ul>
 	</nav>
 	

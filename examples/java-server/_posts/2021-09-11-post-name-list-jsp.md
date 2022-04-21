@@ -31,7 +31,7 @@ This example uses an HTML form to create a [POST request](/tutorials/java-server
 
     <hr>
 
-    <p>Click <a href="/post-name-list-jsp/names">here</a> to see everybody's name.</p>
+    <p>Click <a href="{{ site.baseurl }}/post-name-list-jsp/names">here</a> to see everybody's name.</p>
   </body>
 </html>
 ```
@@ -93,7 +93,7 @@ public class NamesServlet extends HttpServlet {
       <% } %>
     </ul>
 
-    <p>Click <a href="/post-name-list-jsp/index.html">here</a> to enter another name.</p>
+    <p>Click <a href="{{ site.baseurl }}/post-name-list-jsp/index.html">here</a> to enter another name.</p>
   </body>
 </html>
 ```

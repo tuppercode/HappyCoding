@@ -31,7 +31,7 @@ This example uses an HTML form to create a [POST request](/tutorials/java-server
 
     <hr>
 
-    <p>Click <a href="/post-name-list/names">here</a> to see everybody's name.</p>
+    <p>Click <a href="{{ site.baseurl }}/post-name-list/names">here</a> to see everybody's name.</p>
   </body>
 </html>
 ```

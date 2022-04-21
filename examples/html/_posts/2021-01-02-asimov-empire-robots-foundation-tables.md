@@ -14,7 +14,7 @@ This example uses HTML and CSS to show all of the books in Isaac Asimov's Empire
 
 I originally wrote this HTML to create screenshots of the tables I then posted in [this answer](https://scifi.stackexchange.com/a/235311/26220) on the Sci-Fi Stack Exchange.
 
-<img src="/examples/html/images/asimov-empire-robots-foundation-tables-3.png" style="border: thin solid black;" />
+<img href="{{ site.baseurl }}/examples/html/images/asimov-empire-robots-foundation-tables-3.png" style="border: thin solid black;" />
 
 # CSS
 

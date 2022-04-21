@@ -37,8 +37,8 @@ Specifically, let's add a call to `Thread.sleep()` in the code that renders the 
 <head>
 	<title>Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
 </head>
 <body>
@@ -46,12 +46,12 @@ Specifically, let's add a call to `Thread.sleep()` in the code that renders the 
 <div class="container">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
-			<li><a href="/feed/">Social Feed Web App</a></li>
+			<li><a href="{{ site.baseurl }}/feed/">Social Feed Web App</a></li>
 			<% if(request.getSession().getAttribute("user") != null){ %>
-			<li><a href="/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
-			<li><a href="/logout">Logout</a></li>
+			<li><a href="{{ site.baseurl }}/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
+			<li><a href="{{ site.baseurl }}/logout">Logout</a></li>
 			<% } else{ %>
-			<li><a href="/login">Login</a></li>
+			<li><a href="{{ site.baseurl }}/login">Login</a></li>
 			<% } %>
 		</ul>
 	</nav>
@@ -84,7 +84,7 @@ Specifically, let's add a call to `Thread.sleep()` in the code that renders the 
 			Thread.sleep(5000);
 	%>
 			<div class="panel panel-default">
-				<div class="panel-heading"><h4><a href="/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
+				<div class="panel-heading"><h4><a href="{{ site.baseurl }}/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
 				<div class="panel-body"><%= post.getMessage() %></div>
 				<div class="panel-footer">at <%= post.getDate().toString() %></div>
 			
@@ -226,8 +226,8 @@ This class now uses `ConcurrentLinkedDeque` instead of a `LinkedList`. Now we ne
 <head>
 	<title>Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
 </head>
 <body>
@@ -235,12 +235,12 @@ This class now uses `ConcurrentLinkedDeque` instead of a `LinkedList`. Now we ne
 <div class="container">
 	<nav class="navbar navbar-default">
 		<ul class="nav navbar-nav">
-			<li><a href="/feed/">Social Feed Web App</a></li>
+			<li><a href="{{ site.baseurl }}/feed/">Social Feed Web App</a></li>
 			<% if(request.getSession().getAttribute("user") != null){ %>
-			<li><a href="/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
-			<li><a href="/logout">Logout</a></li>
+			<li><a href="{{ site.baseurl }}/feed/<%= request.getSession().getAttribute("user") %>"><%= request.getSession().getAttribute("user") %></a></li>
+			<li><a href="{{ site.baseurl }}/logout">Logout</a></li>
 			<% } else{ %>
-			<li><a href="/login">Login</a></li>
+			<li><a href="{{ site.baseurl }}/login">Login</a></li>
 			<% } %>
 		</ul>
 	</nav>
@@ -273,7 +273,7 @@ This class now uses `ConcurrentLinkedDeque` instead of a `LinkedList`. Now we ne
 			Thread.sleep(5000);
 	%>
 			<div class="panel panel-default">
-				<div class="panel-heading"><h4><a href="/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
+				<div class="panel-heading"><h4><a href="{{ site.baseurl }}/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
 				<div class="panel-body"><%= post.getMessage() %></div>
 				<div class="panel-footer">at <%= post.getDate().toString() %></div>
 			

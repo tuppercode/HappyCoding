@@ -47,7 +47,7 @@ void draw() {
 The result is a random "song" that sounds like this:
 
 <audio controls>
-	<source src="/examples/processing/libraries/data/random-synthesizer.mp3" type="audio/mpeg">
+	<source href="{{ site.baseurl }}/examples/processing/libraries/data/random-synthesizer.mp3" type="audio/mpeg">
 </audio>
 
 Oh and then just for fun, I'm drawing a randomly colored line with an X value based on the frequency of the note.

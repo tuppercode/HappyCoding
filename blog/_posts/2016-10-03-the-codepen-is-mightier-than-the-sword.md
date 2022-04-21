@@ -22,14 +22,14 @@ Another cool thing was how clean [Jekyll](https://jekyllrb.com/) (the software I
 
 ```html
 <div class="panel panel-default">
-	<div class="panel-heading">Code Editor <a href="/about/codepen" class="pull-right"><span class="glyphicon glyphicon-question-sign"></span></a></div>
+	<div class="panel-heading">Code Editor <a href="{{ site.baseurl }}/about/codepen" class="pull-right"><span class="glyphicon glyphicon-question-sign"></span></a></div>
 	<div class="panel-body">
 		<p data-height="275" data-theme-id="dark" data-slug-hash="zKEkKA" data-default-tab="html,result" data-user="KevinWorkman" data-embed-version="2" data-preview="true" data-editable="true" class="codepen">
 		See the Pen <a href="http://codepen.io/KevinWorkman/pen/zKEkKA/"></a> by Happy Coding (<a href="http://codepen.io/KevinWorkman">@KevinWorkman</a>) on <a href="http://codepen.io">CodePen</a>.
 		</p>
 	</div>
 </div>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<script async href="{{ site.baseurl }}//assets.codepen.io/assets/embed/ei.js"></script>
 ```
 
 And that's relatively easy, but it's a little bit cumbersome to have to paste that every time I want to embed some code. Plus, if later I want to change how these work, I'd have to change it every place I've ever used an embed. That sounds annoying!

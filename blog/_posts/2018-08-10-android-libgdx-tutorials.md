@@ -15,7 +15,7 @@ My goal [this year](/blog/happy-new-year-2018) was to add Android and libGDX tut
 
 It seems appropriate that just the other day when I was cleaning, I pulled this out of a stack of old comic books:
 
-<a href="/blog/images/android-libgdx-tutorials/bar-note-1.jpg"><img alt="bar notes" src="/blog/images/android-libgdx-tutorials/bar-note-1.jpg" style="width:400px" /></a>
+<a href="{{ site.baseurl }}/blog/images/android-libgdx-tutorials/bar-note-1.jpg"><img alt="bar notes" href="{{ site.baseurl }}/blog/images/android-libgdx-tutorials/bar-note-1.jpg" style="width:400px" /></a>
 
 This is the note I scribbled down to myself when I first starting thinking about this site. At that point, the idea of shutting down Static Void Games was still terrifying and heartbreaking. I knew I wanted to start a new tutorial site, but I was still figuring out exactly what that meant.
 

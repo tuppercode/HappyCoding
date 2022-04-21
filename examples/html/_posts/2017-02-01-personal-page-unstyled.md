@@ -12,7 +12,7 @@ tags: [example, html]
 
 This is an example personal webpage:
 
-<iframe src="/examples/html/files/personal-page-unstyled/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
+<iframe href="{{ site.baseurl }}/examples/html/files/personal-page-unstyled/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
 
 Click [here](/examples/html/files/personal-page-unstyled/home.html) to open the page in its own window.
 

@@ -12,7 +12,7 @@ tags: [example, javascript, html, css, bootstrap]
 
 This is an example personal webpage:
 
-<iframe src="/examples/javascript/files/personal-page-bootstrap-cyborg/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
+<iframe href="{{ site.baseurl }}/examples/javascript/files/personal-page-bootstrap-cyborg/home.html" width="95%" height="500px" style="border: thin solid black;"></iframe>
 
 Click [here](/examples/javascript/files/personal-page-bootstrap-cyborg/home.html) to open the page in its own window.
 

@@ -115,7 +115,7 @@ This example uses [Maven](https://maven.apache.org/) to compile and run an embed
   </head>
   <body>
     <h1>Jetty Hello World</h1>
-    <p>This is a sample HTML file. Click <a href="/hello">here</a> to see content served from a servlet.</p>
+    <p>This is a sample HTML file. Click <a href="{{ site.baseurl }}/hello">here</a> to see content served from a servlet.</p>
     <p>Learn more at <a href="https://happycoding.io">HappyCoding.io</a>.</p>
   </body>
 </html>

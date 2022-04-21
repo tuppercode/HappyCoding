@@ -1,6 +1,7 @@
 name: Happy Coding
 markdown: kramdown
 baseurl: /HappyCoding
+url: https://tuppercode.github.io
 future: true
 kramdown:
   syntax_highlighter: rouge

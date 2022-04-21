@@ -111,9 +111,9 @@ Note that the servlet does not do any rendering itself! Instead, that's handled 
 <head>
 	<title>Social Feed Web App</title>
 	
-	<script src="/js/jquery-2.2.4.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="/css/bootstrap.flatly.css">
+	<script href="{{ site.baseurl }}/js/jquery-2.2.4.js"></script>
+	<script href="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.flatly.css">
 </head>
 <body>
 
@@ -137,7 +137,7 @@ Note that the servlet does not do any rendering itself! Instead, that's handled 
 		for(Post post : posts){ 
 	%>
 			<div class="panel panel-default">
-				<div class="panel-heading"><h4><a href="/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
+				<div class="panel-heading"><h4><a href="{{ site.baseurl }}/feed/<%= post.getUser() %>"><%= post.getUser() %></a></h4></div>
 				<div class="panel-body"><%= post.getMessage() %></div>
 				<div class="panel-footer">at <%= post.getDate().toString() %></div>
 			
